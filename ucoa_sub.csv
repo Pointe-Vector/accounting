@@ -1,0 +1,181 @@
+Prefix,Suffix,Name
+10,10,Cash in bank-operating
+10,20,Cash in bank-payroll
+10,40,Petty cash
+10,70,Savings & short-term investments
+11,10,Accounts receivable
+11,15,Doubtful accounts allowance
+12,10,Pledges receivable
+12,15,Doubtful pledges allowance
+12,25,Discounts - long-term pledges
+12,40,Grants receivable
+12,45,Discounts - long-term grants
+13,10,Employee & trustee receivables
+13,20,Notes/loans receivable
+13,25,Doubtful notes/loans allowance
+14,10,Inventories for sale
+14,20,Inventories for use
+14,50,Prepaid expenses
+14,60,Accrued revenues
+15,10,Marketable securities 
+15,30,Land held for investment
+15,40,Buildings held for investment
+15,45,Accum deprec - bldg investment
+15,80,Investments - other
+16,10,Land - operating
+16,20,Buildings - operating
+16,30,Leasehold improvements
+16,40,"Furniture, fixtures, & equip"
+16,50,Vehicles
+16,60,Construction in progress
+17,25,Accum deprec - building
+17,35,Accum amort - leasehold improvements
+17,45,"Accum deprec - furn,fix,equip"
+17,55,Accum deprec - vehicles
+18,10,Other long-term assets
+18,50,Split-interest agreements
+19,10,"Collections - art, etc"
+19,50,Funds held in trust by others
+20,10,Accounts payable
+20,20,Grants & allocations payable
+21,10,Accrued  payroll
+21,20,Accrued paid leave
+21,30,Accrued payroll taxes
+21,40,Accrued sales taxes
+21,50,Accrued expenses - other
+23,10,Deferred contract revenue
+23,50,Unearned/deferred revenue - other
+24,10,Refundable advances
+25,10,Trustee & employee loans payable
+25,50,Line of credit
+25,60,Current portion - long-term loan
+25,70,Short-term liabilities - other
+26,10,Split-interest liabilities
+27,10,Bonds payable
+27,30,Mortgages payable
+27,50,Capital leases
+27,70,Long-term liabilities - other
+28,10,Gov't-owned fixed assets liability
+29,10,Custodial funds
+30,10,Unrestricted net assets
+30,20,Board-designated net assets
+30,30,Board designated quasi-endowment
+30,40,Fixed operating net assets
+31,10,Use restricted net assets
+31,20,Time restricted net assets
+32,10,Endowment net assets
+40,10,Individual/small business contributions
+40,20,Corporate contributions
+40,70,Legacies & bequests
+40,75,Uncollectible pledges - estimated
+40,85,Long-term pledges discount
+41,10,Donated professional services-GAAP
+41,20,Donated other services - non-GAAP
+41,30,Donated use of facilities
+41,40,Gifts in kind - goods
+41,50,"Donated art, etc"
+42,10,Corporate/business grants
+42,30,Foundation/trust grants
+42,50,Nonprofit organization grants
+42,55,Discounts - long-term grants
+43,10,Split-interest agreement contributions
+43,50,Gain (loss) split-interest agreements
+44,10,United Way or CFC contributions
+44,20,Affiliated organizations revenue
+44,30,Fundraising agencies revenue
+45,10,Agency (government) grants
+45,20,Federal grants
+45,30,State grants
+45,40,Local government grants
+50,10,Agency (government) contracts/fees
+50,20,Federal contracts/fees
+50,30,State contracts/fees
+50,40,Local government contracts/fees
+50,80,Medicare/Medicaid payments
+51,80,Program service fees
+51,85,"Bad debts, est - program fees"
+52,10,Membership dues-individuals
+52,20,Assessments and dues-organizations
+53,10,Interest-savings/short-term investments
+53,20,Dividends & interest - securities
+53,30,Real estate rent - debt-financed
+53,35,Real estate rental cost - debt-financed
+53,40,Real estate rent - not debt-financed
+53,45,Real estate rental cost - not debt-financed
+53,50,Personal property rent
+53,55,Personal property rental cost
+53,60,Other investment income
+53,70,Securities sales - gross
+53,75,Securities sales cost
+54,10,Non-inventory sales - gross
+54,15,Non-inventory sales cost
+54,40,Gross sales - inventory
+54,45,Cost of inventory sold
+54,50,Advertising revenue
+54,60,Affiliate revenues from other entities
+54,90,Misc revenue
+58,10,Special events - non-gift revenue
+58,20,Special events - gift revenue
+68,10,Unrealized gain (loss) - investments
+68,20,Unrealized gain (loss) - other assets
+69,10,Satisfaction of use restriction
+69,20,LB&E acquisition satisfaction
+69,30,Time restriction satisfaction
+70,10,Contracts - program-related
+70,20,Grants to other organizations
+70,40,Awards & grants - individuals
+70,50,Specific assistance - individuals
+70,60,Benefits paid to or for members
+72,10,Officers & directors salaries
+72,20,Salaries & wages - other
+72,30,Pension plan contributions
+72,40,Employee benefits - not pension
+72,50,"Payroll taxes, etc."
+75,10,Fundraising fees
+75,20,Accounting fees
+75,30,Legal fees
+75,40,Professional fees - other
+75,50,Temporary help - contract
+75,80,Donated professional services - GAAP
+75,90,Donated other services - non-GAAP
+81,10,Supplies
+81,20,Donated materials & supplies
+81,30,Telephone & telecommunications
+81,40,Postage & shipping
+81,50,Mailing services
+81,70,Printing & copying
+81,80,"Books, subscriptions, references"
+81,90,In-house publications
+82,10,"Rent, parking, other occupancy"
+82,20,Utilities
+82,30,Real estate taxes
+82,40,Personal property taxes
+82,50,Mortgage interest
+82,60,Equipment rental & maintenance
+82,70,Deprec & amort - allowable
+82,80,Deprec & amort - not allowable
+82,90,Donated facilities
+83,10,Travel
+83,20,"Conferences, conventions, meetings"
+85,10,Interest-general
+85,20,Insurance - non-employee related
+85,30,Membership dues - organization
+85,40,Staff development
+85,50,List rental
+85,60,Outside computer services
+85,70,Advertising expenses
+85,80,Contingency provisions
+85,90,Other expenses
+86,10,Bad debt expense
+86,20,Sales taxes
+86,30,UBITaxes
+86,50,Taxes - other
+86,60,"Fines, penalties, judgments"
+86,70,Organizational (corp) expenses
+98,10,Capital purchases - land
+98,20,Capital purchases - building
+98,30,Capital purchases - equipment
+98,40,Capital purchases - vehicles
+99,10,Payments to affiliates
+99,20,Additions to reserves
+99,30,Program administration allocations

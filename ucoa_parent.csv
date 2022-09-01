@@ -1,0 +1,47 @@
+Prefix,Category
+10,Cash
+11,Accounts receivable
+12,Contributions receivable
+13,Other receivables
+14,Other assets
+15,Investments
+16,Fixed operating assets
+17,Accum deprec - fixed operating assets
+18,UNCATEGORIZED
+19,UNCATEGORIZED
+20,Payables
+21,Accrued liabilities
+23,Unearned/deferred revenue
+24,UNCATEGORIZED
+25,Short-term notes & loans payable
+26,UNCATEGORIZED
+27,Long-term notes & loans payable
+28,UNCATEGORIZED
+29,UNCATEGORIZED
+30,Unrestricted net assets
+31,Temporarily restricted net assets
+32,Permanently restricted net assets
+40,Revenue from direct contributions
+41,Donated goods & services revenue
+42,Revenue from non-government grants
+43,Revenue from split-interest agreements
+44,Revenue from indirect contributions
+45,Revenue from government grants
+50,Revenue from government agencies
+51,Revenue from program-related sales & fees
+52,Revenue from dues
+53,Revenue from investments
+54,Revenue from other sources
+58,Special events
+68,Unrealized gain (loss)
+69,Net assets released from restriction
+70,"Grants, contracts, & direct assistance"
+72,Salaries & related expenses
+75,Contract service expenses
+81,Nonpersonnel expenses
+82,Facility & equipment expenses
+83,Travel & meetings expenses
+85,Other expenses
+86,Business expenses
+98,Fixed asset purchases
+99,UNCATEGORIZED
